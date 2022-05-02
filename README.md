@@ -1,2 +1,2 @@
 # Studies
-Programs performed for the purposes of studies includes: Python, AI
+Repository will include all my programs performed for the purposes of studies from 2nd year starting. Includes: Python, AI, MariaDB
